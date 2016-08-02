@@ -11,6 +11,8 @@ package ru.villex.neuro;
  */
 public class Main {
     public static void main(String[] args) {
-        
+        System.out.println("Starting application...");
+
+        System.out.println("Ending application!");
     }
 }
